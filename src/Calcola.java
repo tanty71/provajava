@@ -5,6 +5,7 @@ public class Calcola {
         if (y < 4){
             x++;
         }
-        System.out.println("ora calcolo " + y + " " + x);
+        double casuale = (int)(Math.random()*90);
+        System.out.println("ora calcolo " + y + " " + casuale);
     }
 }
