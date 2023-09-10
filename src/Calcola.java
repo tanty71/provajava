@@ -1,5 +1,5 @@
 public class Calcola {
-    static int x = 20;
+    static int x = 10;
     public static void scrivi(int y){
 
         if (y < 4){
